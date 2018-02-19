@@ -1,2 +1,2 @@
-# Coursera DtataScience Track from John Hopkins University 
+# Coursera DtataScience Track from Johns Hopkins University 
 ## Code from the MOOC assignments and quizzes
